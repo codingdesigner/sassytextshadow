@@ -3,7 +3,7 @@
 ## This is mostly a bad idea.
 
 ------
-# Active development has moved to [Team-Sass/breakpoint](https://github.com/Team-Sass/sassytextshadow).
+# Active development has moved to [Team-Sass/sassytextshadow](https://github.com/Team-Sass/sassytextshadow).
 ## Please direct your attention [there](https://github.com/Team-Sass/sassytextshadow). 
 ### Sincerely, [The Management](https://github.com/Team-Sass)
 
